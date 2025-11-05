@@ -25,15 +25,15 @@ RegisterNumber: 25013161
 */
 ```
 (ii) To find the LU Decomposition of a matrix
-```
+
 /*
-Program to find the LU Decomposition of a matrix.
+'''Program to find the LU Decomposition of a matrix.
 Developed by: R Gopinath
-RegisterNumber: 25013161
+RegisterNumber: 25013161'''
 <img width="610" height="317" alt="image" src="https://github.com/user-attachments/assets/4944c79b-bd78-45b8-8f79-e427e552fc48" />
 
 */
-```
+
 
 ## Output:
 ![lu decomposition]()
